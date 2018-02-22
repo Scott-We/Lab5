@@ -5,5 +5,11 @@
 	git commit README.txt -m "added readMe"
 5.	git add hashFrequencies.csv 
 	git add Lab\ 5\ writeup.txt 
-6.	
-	
+	git commit hashFrequencies.csv Lab\ 5\ writeup.txt  -m "have some other files"
+6.	git tag v0.0.1
+7.	git push origin master --tags
+8.	git checkout -b testing-new-files
+9.	git add namesAndStuff2.txt
+	git commit namesAndStuff2.txt -m "have another file"
+10.	git checkout master
+11.	
