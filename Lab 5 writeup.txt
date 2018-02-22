@@ -1,0 +1,9 @@
+1.	config --global user.name "Scott Weygandt"
+	config --global user.email scwe4009@colorado.edu
+3.	git clone https://github.com/Scott-We/Lab5.git
+4.	git add README.txt
+	git commit README.txt -m "added readMe"
+5.	git add hashFrequencies.csv 
+	git add Lab\ 5\ writeup.txt 
+6.	
+	
